@@ -1,0 +1,312 @@
+.container{
+    height: 365px;
+    width: 330px;
+    margin-left: 55%;
+    margin-top: 9%;
+    background-color:none;
+    background-image: url("images55.jpg");
+    background-size: cover;
+    align-items :center;
+    border-radius: 20px;
+    box-shadow: black 2px;
+    padding: 22px;
+    /* border: rgb(226, 152, 158) solid 4px; */
+    border-style:groove;
+    font-size: x-large;
+    color: white;
+    background-attachment: blur;
+    position: relative;
+    }
+
+#title{
+    font-size: xx-large;
+    color: red;
+    font-weight: 100;
+    text-shadow: yellow 2px;
+    margin-top: 6%;
+
+}
+body{
+    background-image: url("bg.jpg");
+    background-repeat: no;
+    background-size: cover;
+    position: relative;
+    
+}
+#beginingtext{
+    margin-left: 30px;
+    border-radius: 50px;
+    height: 25px;
+    width: 250px;
+}
+
+#acc{
+    justify-content: center;
+    align-items: center;
+    color: rgb(30, 217, 241);
+    margin-left: 70px;
+}
+ #submitbtn{
+    margin-left: 40%;
+    border-radius: 40%;
+    height: 15px;
+}
+#acc1{
+    color: rgb(43, 200, 248);
+    margin-right: 80px;
+}
+#forgetpassword{
+    margin-left: 4px;
+    padding-top: 10px;
+    /* color: rgb(22, 208, 255); */
+}
+.container2{
+    margin-top: 15%;
+    margin-left: 55%;
+    background-image: url("images55.jpg");
+    background-size: cover;
+    width: 350px;
+    height: 370px;
+    border-radius: 20px;
+    box-shadow: black 2px;
+    padding: 22px;
+    font-size: x-large;
+    color: white;
+    border-style:groove;
+    position: relative;
+    
+    
+}
+.NewOne{
+    margin-top: 40px;
+    height: 200px;
+    width: 500px;
+    margin-left: 70px;
+}
+#details{
+    border-radius: 49%;
+    height: 18px;
+    width: 250px;
+}
+#namebox{
+    border-radius: 50px ;
+    margin-left: 20px;
+    height: 20px;
+    width: 250px;
+    margin-bottom: 20px;
+}
+#buttonReciever{
+    margin-right: 16px;
+    margin-left: 50px;
+    margin-bottom: 15px;
+
+}
+.dropImage{
+    margin-left: 17%;
+    margin-top: 5%;
+}
+#choosingbloodgrp{
+    color: rgb(252, 26, 26);
+    font-size:xx-large;
+    margin-top: 3%;
+
+}
+#image1{
+     font-size: x-large;
+}
+#image2{
+    font-size: x-large;
+}
+#image3{
+    font-size: x-large;
+}
+#image4{
+    font-size: x-large;
+}
+#image5{
+    font-size: xx-large;
+}
+#image6{
+    font-size: xx-large;
+}
+#image7{
+    font-size: x-large;
+}
+#image8{
+    font-size: xx-large;
+}
+#footer{
+    padding: 20px;
+    margin-left: 20%;
+
+}
+#btn1{
+    padding: 10px;
+    margin-left: 45%;
+    margin-top: 4px;
+
+}
+.detailsofpeoples{
+    margin-left: 25%;
+    color: whitesmoke;
+    font-size: xx-large;
+    
+}
+#showblooddetails{
+    background-color: rgb(243, 130, 192);
+    margin-left: 35%;
+    margin-top: 5%;
+    height: 57%;
+    font-size: xx-large;
+}
+.Createpassword{
+    align-items: center;
+    justify-content: center;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+#logo{
+    width: 100px;
+  height: 100px;
+  margin-bottom: 95%;
+   margin-left: 90% ;
+  position: absolute;
+    border-radius: 50%;
+  /* background: red; */
+}
+#logout{
+    
+    color: black;
+    margin-bottom: 20px;
+    margin-left: 80%;
+    padding: 6px;
+}
+
+#navigationbar{
+    background-color: deeppink;
+    height:50%;
+    padding: 20px;
+    width: 90%;
+    text-align: end;
+}
+
+
+
+
+  .drop {
+    position: relative;
+      width: 20px;
+      height: 20px;
+    top: -30px;
+    margin: 0 auto;
+      background: #F00;
+      -moz-border-radius: 20px;
+      -webkit-border-radius: 20px;
+      border-radius: 20px;
+    -moz-animation-name: drip;
+    -webkit-animation-name: drip;
+    animation-name: drip;
+    -moz-animation-timing-function: cubic-bezier(1,0,.91,.19);
+    -webkit-animation-timing-function: cubic-bezier(1,0,.91,.19);
+    animation-timing-function: cubic-bezier(1,0,.91,.19);
+    -moz-animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+  } 
+  
+  .drop:before {
+    content: "";
+    position: absolute;
+    width: 0;
+      height: 0;
+      border-left: 10px solid transparent;
+      border-right: 10px solid transparent;
+      border-bottom: 30px solid rgba(255,0,0,1);
+    top: -22px;
+  }
+  Blooddrop Animation
+  .wave {
+    margin: 175px auto;
+    position: relative;
+    opacity: 0;
+    top: 0;
+      width: 2px;
+      height: 1px;
+    border: #F00 7px solid;
+      -moz-border-radius: 300px / 150px;
+      -webkit-border-radius: 300px / 150px;
+      border-radius: 300px / 150px;
+    -moz-animation-name: ripple;
+    -webkit-animation-name: ripple;
+    animation-name: ripple;
+    -moz-animation-delay: 2s;
+    -webkit-animation-delay: 2s;
+    animation-delay: 2s;
+    -moz-animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+  }
+  
+  .wave:after {
+    content: "";
+    position: absolute;
+    opacity: 0;
+    top: -5px;
+    left: -5px;
+      width: 2px;
+      height: 1px;
+    border: #F00 5px solid;
+      -moz-border-radius: 300px / 150px;
+      -webkit-border-radius: 300px / 150px;
+      border-radius: 300px / 150px;
+    -moz-animation-name: ripple-2;
+    -webkit-animation-name: ripple-2;
+    animation-name: ripple-2;
+    -moz-animation-duration: 2s;
+    -webkit-animation-duration: 2s;
+    animation-duration: 2s;
+    -moz-animation-iteration-count: infinite;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes ripple {
+      from {
+        opacity: 1;
+      }
+      to {
+        width: 600px;
+        height: 300px;
+        border-width: 1px;
+        top: -100px;
+        opacity: 0;
+      }
+  }
+  
+  @keyframes ripple-2 {
+      0% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0;
+      }
+    100% {
+      width: 200px;
+      height: 100px;
+      border-width: 1px;
+      top: 100px;
+      left: 200px;
+    }
+  }
+  
+  @keyframes drip {
+      to {
+        top: 190px;
+      }
+  }

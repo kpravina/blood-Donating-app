@@ -1,0 +1,38 @@
+.tabledesign{
+
+        margin: 3%;
+        margin-top: 0px    ;
+        align-content: center;
+        color: black;
+        
+        margin-left: 30px;
+        margin-right: 30px;
+        font-size: xx-large;
+        /* padding-top: 20px;
+        padding-bottom: 20px;
+        padding-left: 50px;
+        padding-right: 50px; */
+        border:1px red solid;
+        justify-content: center;
+        padding: 30px;
+
+    
+
+    
+}
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 40px;
+  }
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("image1.jpg");
+
+}
+#headingoftebale{
+    font-size: xx-large;
+    color: white;
+}
